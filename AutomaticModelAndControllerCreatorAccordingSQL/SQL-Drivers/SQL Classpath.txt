@@ -1,0 +1,1 @@
+.;SQL-Drivers\AccessDrivers\commons-lang-2.6.jar;SQL-Drivers\AccessDrivers\commons-logging-1.1.3.jar;SQL-Drivers\AccessDrivers\hsqldb.jar;SQL-Drivers\AccessDrivers\jackcess-2.1.11.jar;SQL-Drivers\AccessDrivers\ucanaccess-4.0.4.jar;SQL-Drivers\MySQLDrivers\mysql-connector-java-5.1.44-bin.jar;SQL-Drivers\OraceDrivers\ojdbc14.jar;SQL-Drivers\OraceDrivers\ojdbc14_g.jar;
